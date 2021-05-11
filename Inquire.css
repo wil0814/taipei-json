@@ -1,0 +1,29 @@
+@charset "utf-8";
+/* CSS Document */
+
+.title{
+	text-align: center; 
+	border-width:5px; 
+	border-bottom-style:outset; 
+	border-color:black;
+	padding:3px;
+	font-size:20px;
+	
+}
+.select{
+	position: absolute;
+	top:  25%;
+	left: 10%;
+}
+.look{
+	position: absolute;
+	top:  25%;
+	left: 35%;
+	
+}
+.look1{
+	position: absolute;
+	top:  30%;
+	left: 35%;
+	
+}
